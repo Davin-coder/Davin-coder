@@ -2,8 +2,8 @@
 </h1>
 <p align='center'>
     My name is Alex David Tuirán Martinez, an enthusiast of coding who wants to make better this world by the code, I'm
-    a Software Developer from Riwi, looking for colaborate on future fullstack projects, I'm currently learning about
-    the correct using of Node.js with security methods.
+    a Software Developer from Riwi, looking to colaborate on future fullstack projects, I'm currently learning about
+    the correct usage of Node.js with security methods.
 </p>
 <h3 align='center'>🛠️ My Development Tool Belt 🛠️</h3>
 <p align='center'>
