@@ -5,7 +5,7 @@
     a Software Developer from Riwi, looking to colaborate on future fullstack projects, I'm currently learning about
     the correct usage of Node.js with security methods.
 </p>
-<h3 align='center'>🛠️ My Development Tool Belt 🛠️</h3>
+<h3 align='center'>🛠️ My Development Tool Kit 🛠️</h3>
 <p align='center'>
     <a href="https://git-scm.com/" target="_blank"><img
             src="https://img.shields.io/badge/git%20-%23F05133.svg?&style=for-the-badge&logo=git&logoColor=white"></a>&nbsp;&nbsp;
@@ -51,10 +51,10 @@
 </div>
 
 <div align='center' style="display: flex;justify-content: center;align-items: center">
-    <img style="width: 48%;"
+    <img style="width: 50%;"
         src="https://github-readme-stats.vercel.app/api?username=davin-coder&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false"
         alt="davin-coder">
-    <img style="width: 51%;"
+    <img style="width: 50%;"
         src="https://nirzak-streak-stats.vercel.app/?user=davin-coder&theme=tokyonight&hide_border=true"
         alt="davin-coder">
 </div>
