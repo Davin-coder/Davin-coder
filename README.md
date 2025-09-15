@@ -1,4 +1,4 @@
-<h1 align='center'>¡Hello world!🌎<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+<h1 align='center'>¡Hello world! 🌎<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
 <p align='center'>
     My name is Alex David Tuirán Martinez, an enthusiast of coding who wants to make better this world by the code, I'm
@@ -45,14 +45,17 @@
 
 <h3 align="center">📊 Github Stats 📊 </h3>
 
-<div align='center' style="display: flex;justify-content: center;align-items: center">
-    <img style="width: 50%;"
+<div align="center">
+    <img style="width: 30%;"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=davin-coder&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact"
         alt="davin-coder">
-    <img style="width: 50%;"
+</div>
+
+<div align='center' style="display: flex;justify-content: center;align-items: center">
+    <img style="width: 47%;"
         src="https://github-readme-stats.vercel.app/api?username=davin-coder&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false"
         alt="davin-coder">
-    <img style="width: 50%;"
+    <img style="width: 51%;"
         src="https://nirzak-streak-stats.vercel.app/?user=davin-coder&theme=tokyonight&hide_border=true"
         alt="davin-coder">
 </div>
