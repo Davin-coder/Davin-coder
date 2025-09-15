@@ -45,12 +45,10 @@
 
 <h3 align="center">📊 Github Stats 📊 </h3>
 
-<div align='center'>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davin-coder&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact"
-        alt="davin-coder">
-</div>
-
 <div align='center' style="display: flex;justify-content: center;align-items: center">
+    <img style="width: 50%;"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=davin-coder&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact"
+        alt="davin-coder">
     <img style="width: 50%;"
         src="https://github-readme-stats.vercel.app/api?username=davin-coder&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false"
         alt="davin-coder">
