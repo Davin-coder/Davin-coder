@@ -25,8 +25,14 @@
             src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"></a>&nbsp;&nbsp;
     <a href="https://nodejs.org/es" target="_blank"><img
             src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"></a>&nbsp;&nbsp;
-    <a href="https://nodejs.org/es" target="_blank"><img
+    <a href="https://www.postman.com/" target="_blank"><img
             src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"></a>&nbsp;&nbsp;
+    <a href="https://azure.microsoft.com/es-es/products/devops" target="_blank"><img
+            src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white"></a>&nbsp;&nbsp;
+    <a href="https://expressjs.com/" target="_blank"><img
+            src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white"></a>&nbsp;&nbsp;
+    <a href="https://nestjs.com/" target="_blank"><img
+            src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"></a>&nbsp;&nbsp;
 
 </p <h3 align='center'>
 <h3 align="center">👨‍💻 My Programming Languages 👨‍💻</h3>
@@ -39,7 +45,7 @@
             src="https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white"></a>&nbsp;&nbsp;
     <a href="https://www.typescriptlang.org/" target="_blank"><img
             src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></a>&nbsp;&nbsp;
-    <a href="https://www.python.org/" target="_blank"><img
+    <a href="https://azure.microsoft.com/es-es/products/devops" target="_blank"><img
             src="https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label"></a>&nbsp;&nbsp;
 </p>
 
