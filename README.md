@@ -7,30 +7,32 @@
 </p>
 <h3 align='center'>🛠️ My Development Tool Kit 🛠️</h3>
 <p align='center'>
-    <a href="https://git-scm.com/" target="_blank"><img
-            src="https://img.shields.io/badge/git%20-%23F05133.svg?&style=for-the-badge&logo=git&logoColor=white"></a>&nbsp;&nbsp;
+    <a href="https://nextjs.org/" target="_blank"><img
+            src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"></a>&nbsp;&nbsp;
     <a href="https://github.com/davin-coder" target="_blank"><img
             src="https://img.shields.io/badge/github%20-%23000.svg?&style=for-the-badge&logo=github&logoColor=white"></a>&nbsp;&nbsp;
-    <a href="https://www.mysql.com/" target="_blank"><img
-            src="https://img.shields.io/badge/mysql%20-%23016B93.svg?&style=for-the-badge&logo=mysql&logoColor=white"></a>&nbsp;&nbsp;
-    <a href="https://www.postgresql.org/download/" target="_blank"><img
-            src="https://img.shields.io/static/v1?style=for-the-badge&message=PostgreSQL&color=4169E1&logo=PostgreSQL&logoColor=FFFFFF&label="></a>&nbsp;&nbsp;
+    <a href="https://flask.palletsprojects.com/en/stable/" target="_blank"><img
+            src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"></a>&nbsp;&nbsp;
+    <a href="https://expressjs.com/" target="_blank"><img
+            src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white"></a>&nbsp;&nbsp;
     <a href="https://tailwindcss.com/" target="_blank"><img
             src="https://img.shields.io/static/v1?style=for-the-badge&message=Tailwind+CSS&color=222222&logo=Tailwind+CSS&logoColor=06B6D4&label="></a>&nbsp;&nbsp;
     <a href="https://www.docker.com/" target="_blank"><img
             src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"></a>&nbsp;&nbsp;
-    <a href="https://fastapi.tiangolo.com/" target="_blank"><img
-            src="https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white"></a>&nbsp;&nbsp;
-    <a href="https://flask.palletsprojects.com/en/stable/" target="_blank"><img
-            src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"></a>&nbsp;&nbsp;
-    <a href="https://nodejs.org/es" target="_blank"><img
-            src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"></a>&nbsp;&nbsp;
-    <a href="https://www.postman.com/" target="_blank"><img
-            src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"></a>&nbsp;&nbsp;
     <a href="https://azure.microsoft.com/es-es/products/devops" target="_blank"><img
             src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white"></a>&nbsp;&nbsp;
-    <a href="https://expressjs.com/" target="_blank"><img
-            src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white"></a>&nbsp;&nbsp;
+    <a href="https://www.postgresql.org/download/" target="_blank"><img
+            src="https://img.shields.io/static/v1?style=for-the-badge&message=PostgreSQL&color=4169E1&logo=PostgreSQL&logoColor=FFFFFF&label="></a>&nbsp;&nbsp;
+    <a href="https://www.mysql.com/" target="_blank"><img
+            src="https://img.shields.io/badge/mysql%20-%23016B93.svg?&style=for-the-badge&logo=mysql&logoColor=white"></a>&nbsp;&nbsp;
+    <a href="https://fastapi.tiangolo.com/" target="_blank"><img
+            src="https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white"></a>&nbsp;&nbsp;
+    <a href="https://nodejs.org/es" target="_blank"><img
+            src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"></a>&nbsp;&nbsp;
+    <a href="https://git-scm.com/" target="_blank"><img
+            src="https://img.shields.io/badge/git%20-%23F05133.svg?&style=for-the-badge&logo=git&logoColor=white"></a>&nbsp;&nbsp;
+    <a href="https://www.postman.com/" target="_blank"><img
+            src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"></a>&nbsp;&nbsp;
     <a href="https://nestjs.com/" target="_blank"><img
             src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"></a>&nbsp;&nbsp;
 
