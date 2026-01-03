@@ -68,7 +68,7 @@
         alt="davin-coder">
 </div>
 
-<h3 align="center"> My Social Medias 📲 </h3>
+<h3 align="center"> Contact Me 📲 </h3>
 
 <p align="center">
     <a href="https://www.linkedin.com/in/davin-coder/" target="_blank">
