@@ -1,9 +1,9 @@
 <h1 align='center'>¡Hello world! 🌎<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
 <p align='center'>
-    My name is Alex David Tuirán Martinez, an enthusiast of coding who wants to make better this world by the code, I'm
-    a Software Developer from Riwi, looking to colaborate on future fullstack projects, I'm currently learning about
-    the correct usage of Node.js with security methods.
+    My name is Alex David Tuirán Martinez, an enthusiast of coding who wants to make the world better through code, I'm
+    a Software Developer from Riwi, looking to collaborate on future full-stack projects, I'm currently learning about
+    the secure Node.js practices and security best practices.
 </p>
 <h3 align='center'>🛠️ My Development Tool Kit 🛠️</h3>
 <p align='center'>
@@ -35,8 +35,8 @@
             src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"></a>&nbsp;&nbsp;
     <a href="https://nestjs.com/" target="_blank"><img
             src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"></a>&nbsp;&nbsp;
+</p>
 
-</p <h3 align='center'>
 <h3 align="center">👨‍💻 My Programming Languages 👨‍💻</h3>
 <p align='center'>
     <a href="https://es.wikipedia.org/wiki/HTML5" target="_blank"><img
