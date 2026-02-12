@@ -1,10 +1,10 @@
-<div align="center">
-  <img src="./public/banner.png" alt="Banner" width="100%">
-</div>
+<!-- <div align="center">
+  <img src="./public/img/banner.png" alt="Banner" width="100%">
+</div> -->
 
-<p align="center" style="font-weight: bold;">
-  Contact Me
-</p>
+<div align="center">
+  <img src="./public/svg/space-theme.svg" alt="Space Theme" width="100%">
+</div>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/davin-coder/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
