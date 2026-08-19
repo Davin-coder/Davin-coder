@@ -55,6 +55,7 @@ My frontend work focuses on:
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-109989?style=flat&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-flat&logo=dotnet&logoColor=white">
 </p>
 
 I design and implement **RESTful APIs and backend services** with a strong emphasis on security and structure.
@@ -64,6 +65,8 @@ Backend experience includes:
 - Applying layered architectures and clean code principles
 - Developing Python-based services with FastAPI and Flask
 - Handling authentication, validation, and error management consistently
+- Building .NET (C#) services with Clean Architecture and DDD (Domain / Application / Infrastructure / Presentation)
+- Persistence with EF Core + PostgreSQL, background jobs with Hangfire, structured logging with Serilog
 
 ---
 
@@ -89,6 +92,9 @@ This includes:
   <a href="https://jestjs.io/">
     <img src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white" />
   </a>
+  <img src="https://img.shields.io/badge/xUnit-5B2D8E?style=flat&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Moq-6E4C9E?style=flat&logo=nuget&logoColor=white" />
+  <img src="https://img.shields.io/badge/FluentAssertions-2E8B57?style=flat&logo=dotnet&logoColor=white" />
 </p>
 
 I prioritize **code quality and reliability** through testing and good development practices.
@@ -98,6 +104,7 @@ My approach includes:
 - Testing business logic and critical flows  
 - Refactoring with confidence through test coverage  
 - Maintaining readable and predictable codebases
+- Unit and integration testing in .NET with xUnit, Moq and FluentAssertions
 
 ---
 
@@ -125,13 +132,13 @@ Experience includes:
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000000" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" />
   <!-- <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" /> -->
+  <img src="https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby&logoColor=white" /> -->
 </p>
 
-I work mainly with **TypeScript and JavaScript** for full-stack web development, and **Python** for backend services and APIs.
+I work mainly with **TypeScript and JavaScript** for full-stack web development, **Python** for backend services and APIs, and **C#** for enterprise .NET backends.
 
 I value:
 - Strong typing and predictability with TypeScript  
@@ -148,10 +155,34 @@ I value:
   <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=flat&logo=githubcopilot&logoColor=white" />
 </p>
 
+<p>
+  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat&logo=claude&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spec_Kit-4B32C3?style=flat&logo=markdown&logoColor=white" />
+</p>
+
 Used as **development accelerators** for:
 - Code review and refactoring
 - Architectural exploration
 - Documentation and testing support
+
+### Spec Driven Development (SDD)
+
+Instead of prompting straight into code, each ticket starts as a written spec that the agent and I agree on first:
+
+- `spec.md` → `plan.md` → `tasks.md` per feature, versioned in the repo next to the code
+- Ambiguities resolved **before** implementation (clarify pass), so decisions are locked and traceable
+- Implementation is executed task by task against the plan, not improvised
+- The spec becomes the review artifact: PRs are validated against it
+
+### Agent Engineering
+
+- **Project instructions** (`CLAUDE.md`): architecture, conventions, and hard rules the agent must respect (e.g. error-handling patterns with no `try/catch` outside defined boundaries)
+- **Custom skills**: reusable, versioned commands for repetitive workflows — spec creation, planning, task breakdown, conventional commits, branch validation
+- **Architecture-aware skills**: one skill per layer (entity, repository, application service, DTO + mapping, controller, domain rules), so generated code lands in the right layer with the project's own conventions instead of generic boilerplate
+- **Custom SDLC workflows**: multi-step pipelines (feature delivery, bugfix correction, design pass) composed from those skills and run end to end
+- **Safety rules**: destructive operations explicitly denied in the instructions (e.g. no migrations applied against any database — the agent generates the SQL script and I decide when to run it)
+- **Persistent memory**: locked decisions and team preferences stored as files, so context survives across sessions
+- **Guardrails over vibes**: the agent works inside the project's design patterns instead of introducing its own
 
 ---
 
@@ -172,3 +203,4 @@ Used as **development accelerators** for:
 <p align="center">
   🚀 <em>Always learning, always building</em> 🚀
 </p>
+
